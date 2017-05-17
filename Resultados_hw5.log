@@ -1,0 +1,269 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.5.9)  17 MAY 2017 16:34
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**Resultados_hw5.tex
+(./Resultados_hw5.tex
+LaTeX2e <2016/02/01>
+Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/01/03 v1.0q Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 95.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(./Resultados_hw5.aux)
+\openout1 = `Resultados_hw5.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count88
+\scratchdimen=\dimen105
+\scratchbox=\box26
+\nofMPsegments=\count89
+\nofMParguments=\count90
+\everyMPshowfont=\toks15
+\MPscratchCnt=\count91
+\MPscratchDim=\dimen106
+\MPnumerator=\count92
+\makeMPintoPDFobject=\count93
+\everyMPtoPDFconversion=\toks16
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 10.
+
+<canal_ionico_1.pdf, id=1, 361.35pt x 361.35pt>
+File: canal_ionico_1.pdf Graphic file (type pdf)
+ <use canal_ionico_1.pdf>
+Package pdftex.def Info: canal_ionico_1.pdf used on input line 15.
+(pdftex.def)             Requested size: 361.34912pt x 361.34912pt.
+
+Overfull \hbox (16.34912pt too wide) in paragraph at lines 15--16
+[][] 
+ []
+
+
+Underfull \hbox (badness 2269) in paragraph at lines 16--16
+[]\OT1/cmr/m/n/10 Figure 1: Cir-culo de mayor ra-dio en el canal ion-ico en-con
+-trado en
+ []
+
+<canal_ionico_2.pdf, id=2, 361.35pt x 361.35pt>
+File: canal_ionico_2.pdf Graphic file (type pdf)
+ <use canal_ionico_2.pdf>
+Package pdftex.def Info: canal_ionico_2.pdf used on input line 21.
+(pdftex.def)             Requested size: 361.34912pt x 361.34912pt.
+
+Overfull \hbox (16.34912pt too wide) in paragraph at lines 21--22
+[][] 
+ []
+
+
+Underfull \hbox (badness 2269) in paragraph at lines 22--22
+[]\OT1/cmr/m/n/10 Figure 2: Cir-culo de mayor ra-dio en el canal ion-ico en-con
+-trado en
+ []
+
+<histograma_1.pdf, id=3, 361.35pt x 361.35pt>
+File: histograma_1.pdf Graphic file (type pdf)
+ <use histograma_1.pdf>
+Package pdftex.def Info: histograma_1.pdf used on input line 27.
+(pdftex.def)             Requested size: 361.34912pt x 361.34912pt.
+
+Overfull \hbox (16.34912pt too wide) in paragraph at lines 27--28
+[][] 
+ []
+
+
+Underfull \hbox (badness 2376) in paragraph at lines 28--28
+[]\OT1/cmr/m/n/10 Figure 3: His-tograma del sam-pleo en el canal ion-ico en-con
+-trado en
+ []
+
+<histograma_2.pdf, id=4, 361.35pt x 361.35pt>
+File: histograma_2.pdf Graphic file (type pdf)
+ <use histograma_2.pdf>
+Package pdftex.def Info: histograma_2.pdf used on input line 33.
+(pdftex.def)             Requested size: 361.34912pt x 361.34912pt.
+
+Overfull \hbox (16.34912pt too wide) in paragraph at lines 33--34
+[][] 
+ []
+
+
+Underfull \hbox (badness 2376) in paragraph at lines 34--34
+[]\OT1/cmr/m/n/10 Figure 4: His-tograma del sam-pleo en el canal ion-ico en-con
+-trado en
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 38.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 38.
+<histograma_3.pdf, id=5, 361.35pt x 361.35pt>
+File: histograma_3.pdf Graphic file (type pdf)
+ <use histograma_3.pdf>
+Package pdftex.def Info: histograma_3.pdf used on input line 41.
+(pdftex.def)             Requested size: 361.34912pt x 361.34912pt.
+
+Overfull \hbox (16.34912pt too wide) in paragraph at lines 41--42
+[][] 
+ []
+
+<verosimilitud.pdf, id=6, 361.35pt x 361.35pt>
+File: verosimilitud.pdf Graphic file (type pdf)
+ <use verosimilitud.pdf>
+Package pdftex.def Info: verosimilitud.pdf used on input line 47.
+(pdftex.def)             Requested size: 361.34912pt x 361.34912pt.
+
+Overfull \hbox (16.34912pt too wide) in paragraph at lines 47--48
+[][] 
+ []
+
+<best_fit.pdf, id=7, 361.35pt x 361.35pt>
+File: best_fit.pdf Graphic file (type pdf)
+ <use best_fit.pdf>
+Package pdftex.def Info: best_fit.pdf used on input line 53.
+(pdftex.def)             Requested size: 361.34912pt x 361.34912pt.
+
+Overfull \hbox (16.34912pt too wide) in paragraph at lines 53--54
+[][] 
+ []
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2 <./canal_ionico_1.pdf>]
+ [3 <./canal_ionico_2.pdf>] [4 <./histograma_1.pdf>] [5 <./histograma_2.pdf>] [
+6 <./histograma_3.pdf>] [7 <./verosimilitud.pdf>] [8 <./best_fit.pdf>]
+(./Resultados_hw5.aux) ) 
+Here is how much of TeX's memory you used:
+ 1528 strings out of 493029
+ 22001 string characters out of 6136235
+ 80595 words of memory out of 5000000
+ 5069 multiletter control sequences out of 15000+600000
+ 6843 words of font info for 25 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 37i,7n,23p,317b,202s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10
+.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></
+usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/sha
+re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/tex
+live/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on Resultados_hw5.pdf (8 pages, 5381942 bytes).
+PDF statistics:
+ 197 PDF objects out of 1000 (max. 8388607)
+ 165 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+
